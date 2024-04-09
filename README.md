@@ -1,15 +1,9 @@
-# Nerfies
+# Illicit Promotion on Twitter
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the project [Illicit Promotion on Twitter](). In this work, we present an extensive study of the promotion of illicit goods and services on Twitter, a popular online social network(OSN).
 
-If you find Nerfies useful for your work please cite:
+If you find this work useful please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
-}
 ```
 
 # Website License
